@@ -1,0 +1,4 @@
+C:\Users\alero\Desktop\C#, .NET and Entity projects\EF Test\obj\Debug\net8.0\EF Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alero\Desktop\C#, .NET and Entity projects\EF Test\obj\Debug\net8.0\EF Test.AssemblyInfoInputs.cache
+C:\Users\alero\Desktop\C#, .NET and Entity projects\EF Test\obj\Debug\net8.0\EF Test.AssemblyInfo.cs
+C:\Users\alero\Desktop\C#, .NET and Entity projects\EF Test\obj\Debug\net8.0\EF Test.csproj.CoreCompileInputs.cache
